@@ -26,7 +26,7 @@ This project was built in Unreal Engine 5 using C++ and Blueprint systems. The g
 #### Ground Controls
 
 | Action | Keyboard |
-|---|---|---|
+|---|---|
 | Move | WASD |
 | Camera | Mouse |
 | Pick up Item | Mouse Left Click |
