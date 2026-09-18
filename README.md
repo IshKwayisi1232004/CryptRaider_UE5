@@ -1,10 +1,12 @@
 # Crypt Raider
 
-Crypt Raider is a first-person Unreal Engine 5 gameplay demo focused on exploration, object interaction, and environmental puzzle mechanics.
+> Crypt Raider is a first-person Unreal Engine 5 gameplay demo focused on exploration, object interaction, and environmental puzzle mechanics.
 
-## Demo Video
+The goal of this project was to design a highly responsive object interactive system that enabled the player to engage with environmental puzzle mechanics using C++, Blueprints, components, and Unreal Engines's dynamic lighting system. 
 
-Watch the gameplay demo here: https://www.youtube.com/watch?v=-aq6ZBmH-2k
+[![Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unreal-engine&logoColor=white)]()
+[![Language](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)]()
+[![Status](https://img.shields.io/badge/Status-Complete%20-green)]()
 
 ## Overview
 
@@ -19,7 +21,21 @@ This project was built in Unreal Engine 5 using C++ and Blueprint systems. The g
 - Used Unreal Engine components and actors to organize gameplay behavior
 - Iteratively tested and debugged gameplay flow, object behavior, and level interactions
 
-## Technologies Used
+### Controls
+
+#### Ground Controls
+
+| Action | Keyboard |
+|---|---|---|
+| Move | WASD |
+| Camera | Mouse |
+| Pick up Item | Mouse Left Click |
+
+## Demo Video
+
+Watch the gameplay demo here: https://www.youtube.com/watch?v=-aq6ZBmH-2k
+
+## Tech Stack
 
 - Unreal Engine 5
 - C++
@@ -40,3 +56,15 @@ Source/     C++ source code
 This repository uses Git LFS for Unreal Engine asset files such as .uasset and .umap.
 
 To open the project, clone the repository and open the .uproject file in Unreal Engine 5.
+
+## 📝 Documentation
+
+This README was authored and is maintained by Ishmael Kwayisi to
+document the project's development, technical implementation, and
+solo contributions.
+
+## 🎨 Credits & Attribution
+
+- **Infuse Studio** — MalberS Animations via Fab
+  - Used for dungeon structure and prop models.
+  - Licensed under the **UE Marketplace License**.
