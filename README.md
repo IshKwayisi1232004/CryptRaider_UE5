@@ -31,7 +31,7 @@ This project was built in Unreal Engine 5 using C++ and Blueprint systems. The g
 | Camera | Mouse |
 | Pick up Item | Mouse Left Click |
 
-## Demo Video
+## 🎥 Gameplay / Demo
 
 Watch the gameplay demo here: https://www.youtube.com/watch?v=-aq6ZBmH-2k
 
@@ -42,6 +42,14 @@ Watch the gameplay demo here: https://www.youtube.com/watch?v=-aq6ZBmH-2k
 - Blueprint
 - Git / GitHub
 - Git LFS
+
+---
+
+## 🔮 Future Improvements
+
+- One improvement I'd like to make for this project is to polish and revise a graphical bug that effects the overall immersion and experience for the player. At the moment, there is light from the outside of the crypt that bleeds into the inside. This creates problems with the illusion of immersion because the player is meant to be traversing a dark crypt with only torch lights to guide them. However, the light from the outside breaks that player immersion because they player is now aware that there is a way to the outside world. Rather than wondering if they can even escape.
+- Another improvement I'd like to address is fixing a gameplay bug regarding the endgame door. When the player places the final object on the pedestal, the door doesn't open. This is a likely issue due to a bug within the code or a missed implementation that is worth revisting.
+- Lastly, I'd like to better optimize my current project by reworking the trigger detection from per-frame overlap polling to event-driven collision to reduce unnecessary runtime queries and CPU overhead.
 
 ## Project Structure
 
