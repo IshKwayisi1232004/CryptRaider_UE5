@@ -33,7 +33,31 @@ This project was built in Unreal Engine 5 using C++ and Blueprint systems. The g
 
 ## 🎥 Gameplay / Demo
 
-Watch the gameplay demo here: https://www.youtube.com/watch?v=-aq6ZBmH-2k
+Watch the gameplay demo here: [Mini Gameplay Demo](Screenshots/CryptRaider_Demo.mp4)
+
+---
+
+## 📸 Screenshots
+
+### Dragon Charge
+
+![Charge](Screenshots/CryptRaiderScreenshot_1.png)
+
+### Dragon Flight
+
+![Flight](Screenshots/CryptRaiderScreenshot_2.png)
+
+### Jump Mid-Air
+
+![Jump](Screenshots/CryptRaiderScreenshot_3.png)
+
+### Jump Mid-Air
+
+![Jump](Screenshots/CryptRaiderScreenshot_4.png)
+
+### Jump Mid-Air
+
+![Jump](Screenshots/CryptRaiderScreenshot_5.png)
 
 ## Tech Stack
 
@@ -42,6 +66,11 @@ Watch the gameplay demo here: https://www.youtube.com/watch?v=-aq6ZBmH-2k
 - Blueprint
 - Git / GitHub
 - Git LFS
+
+## 🚀 What I Learned
+
+- While developing Crypt Raider, I learned how to implement dependency injection through the utilization of the UMover component. Unreal Engine's UMover component encouraged me to explore the integration of object states that are depenedent on the player's choices. Giving me a better understanding of how to design the player's actions for gameplay sequences. 
+- I also learned how to utilize line tracing and sweeping to create interactions between GameObjects and the player. 
 
 ---
 
