@@ -33,7 +33,7 @@ This project was built in Unreal Engine 5 using C++ and Blueprint systems. The g
 
 ## 🎥 Gameplay / Demo
 
-Watch the gameplay demo here: [Mini Gameplay Demo](youtu.be/-aq6ZBmH-2k)
+Watch the gameplay demo here: [Mini Gameplay Demo](https://www.youtube.com/watch?v=-aq6ZBmH-2k&feature=youtu.be)
 
 ---
 
