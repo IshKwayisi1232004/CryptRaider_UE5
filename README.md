@@ -39,25 +39,20 @@ Watch the gameplay demo here: [Mini Gameplay Demo](Screenshots/CryptRaider_Demo.
 
 ## 📸 Screenshots
 
-### Dragon Charge
+### Dungeon Object and Line Trace
 
-![Charge](Screenshots/CryptRaiderScreenshot_1.png)
+![Dungeon Object and Line Trace](Screenshots/CryptRaiderScreenshot_1.png)
 
-### Dragon Flight
+### New Path Unlocked 
 
-![Flight](Screenshots/CryptRaiderScreenshot_2.png)
+![New Path Unlocked](Screenshots/CryptRaiderScreenshot_2.png)
 
-### Jump Mid-Air
+### New Area For Exploration
+![New Area For Exploration](Screenshots/CryptRaiderScreenshot_3.png)
 
-![Jump](Screenshots/CryptRaiderScreenshot_3.png)
+### End Area
 
-### Jump Mid-Air
-
-![Jump](Screenshots/CryptRaiderScreenshot_4.png)
-
-### Jump Mid-Air
-
-![Jump](Screenshots/CryptRaiderScreenshot_5.png)
+![End Area](Screenshots/CryptRaiderScreenshot_5.png)
 
 ## Tech Stack
 
