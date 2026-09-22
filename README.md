@@ -33,7 +33,7 @@ This project was built in Unreal Engine 5 using C++ and Blueprint systems. The g
 
 ## 🎥 Gameplay / Demo
 
-Watch the gameplay demo here: [Mini Gameplay Demo](Screenshots/CryptRaider_Demo.mp4)
+Watch the gameplay demo here: [Mini Gameplay Demo](youtu.be/-aq6ZBmH-2k)
 
 ---
 
