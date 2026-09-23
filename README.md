@@ -64,8 +64,9 @@ Watch the gameplay demo here: [Mini Gameplay Demo](https://www.youtube.com/watch
 
 ## 🚀 What I Learned
 
-- While developing Crypt Raider, I learned how to implement dependency injection through the utilization of the UMover component. Unreal Engine's UMover component encouraged me to explore the integration of object states that are depenedent on the player's choices. Giving me a better understanding of how to design the player's actions for gameplay sequences. 
-- I also learned how to utilize line tracing and sweeping to create interactions between GameObjects and the player. 
+- **Gameplay Architecture and State-Driven Design:** While developing Crypt Raider, I learned how to work with Unreal Engine's UMover component and explore how gameplay states can depend on player actions. This gave me a better understanding of how to structure player interactions and design gameplay sequences around changes in the game's state.
+- **Line Tracing and Player Interaction:** I learned how to use Unreal Engine's line tracing and sweeping functionality to create meaningful interactions between the player and objects in the environment. This was my first time using line traces to implement a gameplay mechanic. I particularly enjoyed how a simple line trace could make object interaction feel intuitive by allowing me to control the interaction range and direction relative to the player's position and viewpoint.
+- **Iterative Development and Self-Evaluation:** I also learned the importance of evaluating my own implementations and identifying opportunities for improvement. Throughout development, I documented the strengths and weaknesses of Crypt Raider and used them to identify potential improvements for future iterations. This process helped me recognize areas where I can continue developing my Unreal Engine knowledge and improve my approach to gameplay programming.
 
 ---
 
